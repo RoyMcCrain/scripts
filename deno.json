@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "dax": "https://deno.land/x/dax/mod.ts"
+  },
+  "lint": {
+    "include": ["./src/*.ts"]
+  },
+  "fmt": {
+    "include": ["./src/*.ts"]
+  }
+}
